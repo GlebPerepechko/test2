@@ -9,4 +9,3 @@ for (key, ax)in zip(df.groups.keys(), axes.flatten()):
     ax.set_title(key)
 plt.show()
 
-#jL7f3BihZ@4f
